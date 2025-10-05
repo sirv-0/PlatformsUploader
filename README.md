@@ -1,4 +1,4 @@
-# PlatformsUploader TG: @V_12_0
+# PlatformsUploader
 Automated video upload tool for Meta (Facebook/Instagram), TikTok, and YouTube with scheduling capabilities.
 Core Functionality
 
@@ -255,3 +255,5 @@ Automated scheduling
 Description extraction
 Upload tracking
 Testing mode
+
+Telegram : @V_12_0
